@@ -236,7 +236,7 @@ app.listen(port, () => {
 
 ## Setup Sorting Imports with Eslint
 
-- Reference: https://medium.com/weekly-webtips/how-to-sort-imports-like-a-pro-in-typescript-4ee8afd7258a
+- Reference: <https://medium.com/weekly-webtips/how-to-sort-imports-like-a-pro-in-typescript-4ee8afd7258a>
 
 ### Setup Native ESLint Plugin to Sort Imports
 
